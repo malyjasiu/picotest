@@ -1,11 +1,13 @@
 {
 "platform": "lattice",
-"tx": "9",
-"qspi_csn": "16",
-"qspi_sck": "15",
-"qspi_dat[0]": "14",
-"qspi_dat[1]": "17",
-"qspi_dat[2]": "12",
-"qspi_dat[3]": "13",
+"i_clk": 35,
+"o_uart_tx": "9",
+"i_uart_rx": "6",
+"o_qspi_csn": "16",
+"o_qspi_sck": "15",
+"io_qspi_dat[0]": "14",
+"io_qspi_dat[1]": "17",
+"io_qspi_dat[2]": "12",
+"io_qspi_dat[3]": "13",
 "o_done" : "27"
 }
