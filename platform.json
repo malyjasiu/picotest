@@ -1,0 +1,11 @@
+{
+"platform": "lattice",
+"tx": "9",
+"qspi_csn": "16",
+"qspi_sck": "15",
+"qspi_dat[0]": "14",
+"qspi_dat[1]": "17",
+"qspi_csn[2]": "12",
+"qspi_csn[3]": "13",
+"o_done" : "27"
+}
