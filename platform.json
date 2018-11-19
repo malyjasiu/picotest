@@ -1,6 +1,6 @@
 {
 "platform": "lattice",
-"i_clk": 35,
+"i_clk": "35",
 "o_uart_tx": "9",
 "i_uart_rx": "6",
 "o_qspi_csn": "16",
